@@ -215,7 +215,7 @@ namespace MoveListItems
     runspace.Close();
 
 
-            // converts
+            // converts from local to server
 
     // convert the script result into a single string
 
